@@ -1,0 +1,26 @@
+{
+  "name": "@newrelic-labs/oracledb",
+  "version": "1.0.0",
+  "description": "node-oracledb instrumentation for the New Relic Node agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run unit && npm run versioned"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newrelic-experimental/node-newrelic-oracledb"
+  },
+  "keywords": [
+    "newrelic",
+    "instrumentation",
+    "node-oracledb",
+    "oracle",
+    "apm"
+  ],
+  "author": "Prakash Soma Reddy",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/newrelic-experimental/node-newrelic-oracledb/issues"
+  },
+  "homepage": "https://github.com/newrelic-experimental/node-newrelic-oracledb#readme"
+}
