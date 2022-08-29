@@ -1,6 +1,6 @@
 {
   "name": "@newrelic-labs/oracledb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node-oracledb instrumentation for the New Relic Node agent",
   "main": "index.js",
   "scripts": {
